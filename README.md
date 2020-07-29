@@ -1,15 +1,28 @@
-## Welcome to GitHub Pages
+# Jessica Johnson Webb, Writer
 
-You can use the [editor on GitHub](https://github.com/jjwwriter/jjwwriter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+! [
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Specializing in: 
+- Work Life
+  - HR & Personnel Management with Empathy
+  - Personal Career Management
+- Art for Everyday
+- The View from Kansas
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi! Welcome to my website. I’m an avid learner and professional based in Kansas and I’ve just launched my writing career. With a unique mix of art, human resources (SHRM-SCP certified), education, higher ed and research administration in my background, I pull from a variety of experiences to create thoughtful, succinct content for my clients. 
 
-```markdown
-Syntax highlighted code block
+A few of my favorite experiences include mentoring pre-service art teachers as they led children’s art classes at the Spencer Museum of Art, helping my team navigate tough hurdles and emerge stronger, and building relationships with a wide variety of people across the University and beyond. My first job out of undergrad was a newspaper reporter for a weekly newspaper in the Sangre de Cristo Mountains. I wrote about everything from the Fourth of July parade to the latest scandal on the school board. I even won a few awards for my troubles. You can find the details of my career on my resume [link to resume]. 
+
+Watch for more in my fiction section. As a side hustle to my side hustle, I’m working on a mystery novel whose protagonist is a curator at a small liberal arts college with a go-fuck-yourself attitude. As you may imagine, that doesn’t always work out well for her. 
+
+I live with my husband and two-year-old son in a 1950s ranch house in Overland Park, Kansas. Occasionally I like to dress the part of 1950s fit-and-flare housewife or 1960s liberated mama. Just depends on my mood.
+
+
+jjwwriter@gmail.com  |  [LinkedIn](www.linkedin.com/in/jessica-johnson-webb/)   |   [Twitter](twitter.com/jeslea76)
+
+
+
 
 # Header 1
 ## Header 2
@@ -26,8 +39,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)  |   
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjwwriter/jjwwriter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
